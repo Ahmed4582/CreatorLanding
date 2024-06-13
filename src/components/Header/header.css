@@ -1,0 +1,18 @@
+.join-btn {
+    padding: 12px 30px;
+    background-color: #ff60e6;
+}
+
+@media (max-width: 969px) {
+    .nav-bar {
+        flex-direction: column;
+        padding-top: 15px;
+        gap: 15px;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .links ul {
+        gap: 20px;
+    }
+}
